@@ -82,4 +82,30 @@ AdheSense was evaluated against several impact metrics:
 ---
 
 ## 📁 Repository Structure
+.
+├── README.md
+├── slides/
+│ └── AdheSense_Intelligent_Rail_Grip_System.pdf
+└── assets/
 
+
+---
+
+## 🚀 About This Project
+
+This project was developed for the **Agorize × Ferrocampus Challenge**, focused on creating innovative solutions for the **rail industry**.  
+It explores how **sensing technologies, predictive AI, and intelligent rail systems** can contribute to safer, more efficient transportation.
+
+---
+
+## 📎 Files Included
+
+- **AdheSense_Intelligent_Rail_Grip_System.pdf** – Final slide deck  
+- Additional materials may be added (UI mockups, diagrams, reports)
+
+---
+
+## 👥 Authors  
+*List your team or keep it individual (your choice).*
+
+---
